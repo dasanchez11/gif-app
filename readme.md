@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://react.dev/learn" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="200" alt="React Logo" /></a>
+  <a href="https://react.dev/learn" target="__blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="200" alt="React Logo" /></a>
 </p>
 
 # Gif App
