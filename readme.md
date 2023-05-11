@@ -18,7 +18,6 @@ VITE_API_KEY= YOUR KEY;
 
 ```
 docker compose up -d
-
 ```
 
 5. \*\*Be sure you have a the docker Desktop installed
